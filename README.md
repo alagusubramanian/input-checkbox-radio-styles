@@ -1,2 +1,2 @@
 # input-checkbox-radio-styles
-Style input type checkboxe and radio
+Style input type checkbox and radio
